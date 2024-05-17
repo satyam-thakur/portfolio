@@ -106,9 +106,19 @@ TRANINGS/WORKSHOPS
 ❖ Cybersecurity fundamentals
 ❖ Cloud computing and services (AWS, Azure and Huawei cloud )
 LANGUAGES
- English (Fluent)  Nepali (Native Speaker)  Hindi (Fluent)
+ English (Fluent)  Nepali (Native Speaker)  Hindi (Fluent)      
 CAREER OBJECTIVES
 ❖ To Achieve Excellency in the field of Information Technology, learning and exploring cutting-edge
 innovation and technology.
 ❖ To Research to get opportunity to achieve and extend my knowledge to global standards and pursue
 a bright career, self-motivating with satisfaction and acquiring personal & organizational goals.
+
+<h1 align="center">Hi 👋, I'm Satyam Thakur</h1>
+<h3 align="center">A passionate Network Engineer from Nepal</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
